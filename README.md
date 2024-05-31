@@ -71,3 +71,13 @@ Personalization and unique wedding features, like customizable invitations and i
 - Security: Strong encryption, user authentication.
 - Compatibility: Support for major browsers and devices, integration with Google Calendar.
 - Scalability: Easy feature addition, maintainable codebase on GitHub.
+
+## Full Documentation
+
+- Slovak version: [🇸🇰 📄](https://github.com/RikoAppDev/ea-wedmate/blob/main/PSI%20-%20Fin%C3%A1lne%20odovzdanie%20-%20Duva%C4%8D%2C%20Van%C4%8Do%2C%20%C5%A0tilec.pdf)
+
+## Authors
+
+- **Martin Vančo** - [vancik01](https://github.com/vancik01)
+- **Daniel Štilec** - [stilecdaniel](https://github.com/stilecdaniel)
+- **Frederik Duvač** - [RikoAppDev](https://github.com/RikoAppDev)
